@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        result=[]
+        
         k=1
         for i in range(1,len(nums)):
             if nums[i]!=nums[i-1]:
