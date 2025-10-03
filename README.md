@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -18,12 +19,14 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0179-largest-number) |
 ## Divide and Conquer
 |  |
