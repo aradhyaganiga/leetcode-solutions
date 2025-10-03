@@ -6,20 +6,20 @@ class Solution(object):
         :rtype: int
         """
         nums.sort()
-        closest=float('inf')
+        closest_sum=float('inf')
         n=len(nums)
         for i in range(n-2):
             l,r=i+1,n-1
             while l<r:
-                total=nums[i]+nums[l]+nums[r]
-                if abs(total-target)<abs(closest-target):
-                    closest=total
-                if total<target:
+                total_sum=nums[i]+nums[l]+nums[r]
+                if abs(total_sum-target)<abs(closest_sum-target):
+                    closest_sum=total_sum
+                if total_sum<target:
                     l+=1
-                elif total>target:
+                elif total_sum>target:
                     r-=1
                 else:
-                    return total
-        return closest
+                    return total_sum
+        return closest_sum
                 
         
