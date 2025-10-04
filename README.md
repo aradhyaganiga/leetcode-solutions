@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
