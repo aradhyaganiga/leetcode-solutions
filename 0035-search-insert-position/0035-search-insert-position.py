@@ -13,5 +13,6 @@ class Solution(object):
         else:
             idx=nums.index(target)
         return idx
+        # For O(logn) we can implement the code with binary search algorithm which is optimal
 
         
