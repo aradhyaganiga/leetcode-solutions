@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0179-largest-number) |
 ## Greedy
@@ -58,4 +60,5 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
