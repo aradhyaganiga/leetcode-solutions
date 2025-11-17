@@ -13,11 +13,13 @@
 | [0053-maximum-subarray](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0179-largest-number) |
+| [0219-contains-duplicate-ii](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
