@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,5 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/aradhyaganiga/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
